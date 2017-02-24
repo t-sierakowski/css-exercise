@@ -1,0 +1,10 @@
+/* article */
+h1 {
+  color: black;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1em;
+}
